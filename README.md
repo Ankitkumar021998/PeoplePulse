@@ -1,4 +1,4 @@
-PeoplePulse – Employee Management System
+PeoplePulse – Enterprise Employee Management System
 
 PeoplePulse is a full-stack Employee Management System built to manage employee records, departments, user authentication, and employee profiles through a web-based application.
 
